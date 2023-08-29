@@ -25,3 +25,5 @@ Se for IPv6 - AAAA
 2606:50c0:8001::153
 2606:50c0:8002::153
 2606:50c0:8003::153
+
+Para verificar os dados do proprietário do Dominio verificar no site: https://who.is/
