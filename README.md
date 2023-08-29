@@ -30,4 +30,4 @@ Para fazer o QR Code do seu site acesse https://goqr.me/#t=url
 
 <p>Para verificar os dados do proprietário do Dominio verificar no site: https://who.is/</p>
 <p>Para comprar dominio .com em dolar e mais seguro https://www.namecheap.com/</p>
-<p>Para fazer a segurança do site em SSH gratis https://www.cloudflare.com/pt-br/</p>
+<p>Para fazer a segurança do site em SSH gratis e configurar o CDN igual o CloudFront em Edge location https://www.cloudflare.com/pt-br/</p>
