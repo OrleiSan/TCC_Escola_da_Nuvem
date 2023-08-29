@@ -2,6 +2,9 @@
 Hospedagem de um site estático (www.grupodanuvem.online) no Bucket S3 na nuvem
 
 
+Para fazer o QR Code do seu site acesse https://goqr.me/#t=url
+
+
 1-Depois que voce subir todos os arquivos do seu site, leva uns minutos até propagar o site e ficar disponivel o endereço do Git
 2-para add sua url amigavel sera preciso trocar o DNS
 3-troca o DNS e aguarde o dominio ser propagado, pode levar 24hs dependendo.
