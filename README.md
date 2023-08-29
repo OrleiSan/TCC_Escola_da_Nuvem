@@ -27,3 +27,5 @@ Se for IPv6 - AAAA
 2606:50c0:8003::153
 
 Para verificar os dados do proprietário do Dominio verificar no site: https://who.is/
+Para comprar dominio .com em dolar e mais seguro https://www.namecheap.com/
+Para fazer a segurança do site em SSH gratis https://www.cloudflare.com/pt-br/
