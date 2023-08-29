@@ -15,7 +15,7 @@ Para fazer o QR Code do seu site acesse https://goqr.me/#t=url
 <p>5-Tabem direcionar o CNAME para orleisan.github.io.</p>
 <p>6-Add Url amigavel comprado pela Go Daddy e redirecionado o DNS para https://www.grupodanuvem.online/</p>
 
-<p>Dados:</p>
+<p>Dados do GitHub:</p>
 <p>IPv4 - A</p>
 <p>185.199.108.153</p>
 <p>185.199.109.153</p>
