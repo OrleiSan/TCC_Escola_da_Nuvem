@@ -11,4 +11,4 @@ Hospedagem de um site estático (www.grupodanuvem.online) no Bucket S3 na nuvem
 
 # Arquitetura
 
-<img align="" alt="Imagem_de_fundo" height="600" width="1080" src="https://github.com/OrleiSan/AWS_Arquitetura_EC2_ASG_ELB/blob/main/Arquitetura_padrao.drawio.png?raw=true">
+<img align="" alt="Imagem_de_fundo" height="600" width="900" src="https://github.com/OrleiSan/TCC_Escola_da_Nuvem/blob/main/Arquitetura_Site_Est%C3%A1tico.drawio.png?raw=true">
